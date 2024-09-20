@@ -1,0 +1,23 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Cenas","order":1,"path":"folders/Cenas.yy",},
+    {"name":"Objetos","order":2,"path":"folders/Objetos.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Room8","order":7,"path":"rooms/Room8/Room8.yy",},
+    {"name":"Sdisc","order":2,"path":"sprites/Sdisc/Sdisc.yy",},
+    {"name":"Odisc2","order":3,"path":"objects/Odisc2/Odisc2.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Odisc","order":2,"path":"objects/Odisc/Odisc.yy",},
+    {"name":"Ocoin","order":1,"path":"objects/Ocoin/Ocoin.yy",},
+    {"name":"Room4","order":3,"path":"rooms/Room4/Room4.yy",},
+    {"name":"Room9","order":8,"path":"rooms/Room9/Room9.yy",},
+    {"name":"Scoin","order":1,"path":"sprites/Scoin/Scoin.yy",},
+    {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
+    {"name":"Room7","order":6,"path":"rooms/Room7/Room7.yy",},
+    {"name":"Sfundo","order":4,"path":"sprites/Sfundo/Sfundo.yy",},
+    {"name":"Room6","order":5,"path":"rooms/Room6/Room6.yy",},
+    {"name":"Room5","order":4,"path":"rooms/Room5/Room5.yy",},
+    {"name":"Sdisc2","order":3,"path":"sprites/Sdisc2/Sdisc2.yy",},
+  ],
+}
